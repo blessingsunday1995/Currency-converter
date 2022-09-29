@@ -1,0 +1,71 @@
+body{
+    background-color: green; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: black;
+}
+
+.header{
+    background-color: skyblue;
+    text-align: center;
+    padding: 15px;
+}
+
+.headerimage{
+    width: 50px; 
+    height: 50px; 
+    float: left;
+}
+
+#main{
+    overflow: auto;
+    background-color: lightgreen;
+
+}
+
+.menu{
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+.menu a{
+    background-color: white;
+    padding: 8px;
+    display: block;
+    margin-top: 7px;
+    width: 100%;
+    color: black;
+}
+
+.content{
+    float: left;
+    width: 60%;
+    padding: 20px;
+}
+
+.ourprogram{
+    text-align: center; 
+    font-size: x-large;
+}
+
+.bodyimage{
+    width: 250px; 
+    height: 250px; 
+    align-items: center;
+}
+
+.rightside{
+    background-color: white;
+    float: right;
+    width: 20%;
+    padding: 15px;
+    text-align: center;
+    margin-top: 7px;
+}
+
+.footer{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 7px;
+}

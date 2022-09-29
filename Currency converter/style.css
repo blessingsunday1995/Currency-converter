@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: skyblue;
+
+}
+
+.box{
+    background-color: aliceblue;
+    width: 250px;
+    padding: 25px;
+    background: white;
+}
+
+button{
+    background-color: green;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    width: 130px;
+    height: 40px;
+    margin-top: 15px;
+}
+
+.header{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
